@@ -11,8 +11,7 @@ Permafrost Tilter is a small platformer based on avoiding the cold and trying to
 This repo contains the source code of the game with no project files. To compile it yourself, please create a gradle or idea project using the provided source. Otherwise, you can directly play the game by following the instructions below.
 
 # Playing the game  
-If you're only interested in playing the game, Permafrost_tilter.zip contains an executable named `PermafrostTilter.jar`. Once unzipped, please excecute the `.jar` file from the same folder (in the same directory as the `res` folder).  
-You must have a java version >= 1.8 to be able to run the game.  
+If you're only interested in playing the game, check out [this release](https://github.com/Dobios/PermafrostTilter/releases/tag/v1.0), or use the provided build found in the [build](https://github.com/Dobios/PermafrostTilter/tree/main/build) directory and run the `.jar` file.    
 
 # Guide  
 A small guide has been written and was added under README.pdf. It contains a small description of the game mechanics and controls as well as the layouts of each level.  
